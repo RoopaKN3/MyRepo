@@ -1,2 +1,8 @@
 first coding
+<<<<<<< HEAD
 second version
+=======
+second version
+>>>>>>> d9256759434955df1ebd01ae901e20d1320f2b7c
+
+I'm editing it on notepad
